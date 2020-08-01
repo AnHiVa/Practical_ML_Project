@@ -1,5 +1,5 @@
 # Practical_ML_Project
-Coursera Practical Machine Learning  Course Project
+Coursera Practical Machine Learning  Course Project \n 
 [RPubs website](https://rpubs.com/AnHiVa/pml-project)
 
 # Background
