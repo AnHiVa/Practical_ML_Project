@@ -17,4 +17,4 @@ The goal of your project is to predict the manner in which they did the exercise
 Cross validation of decision tree and random forest models will be performed.
 
 # Result
-Based on the results, the Random Forest algorithm had a better outcome than Decision Trees. The Random Forest accuracy was 97.87% (0.9753, 0.9818) with a 95% confidence level. While the Decicsion Tree model has an accuracy of 56.95% (0.5584, 0.5805) with a 95% confidence level. Therefore, the Random Forest model is selected to perform the predicition for the assignment test set. With an excpecter out of samble error of 5%.
+Based on the results, the Random Forest algorithm had a better outcome than Decision Trees. The Random Forest accuracy was 97.87% (0.9753, 0.9818) with a 95% confidence level. While the Decicsion Tree model has an accuracy of 56.95% (0.5584, 0.5805) with a 95% confidence level. Therefore, the Random Forest model is selected to perform the predicition for the assignment test set. With an expected out of sample error of 5%.
