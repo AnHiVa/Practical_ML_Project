@@ -137,7 +137,7 @@ The random forest model's accuracy is 97.87%, which is a high accuracy.
 # Asignment Answers
 
 Based on the results, the Random Forest algorithm had a better outcome than Decision Trees. The Random Forest accuracy was 97.87% (0.9753, 0.9818) with a 95% confidence level. While the Decision Tree model has an accuracy of 56.95% (0.5584, 0.5805) with a 95% confidence level.\n
-Therefore, the Random Forest model is selected to perform the prediction for the assignment test set. With an expected out of sample error of 5%.
+Therefore, the Random Forest model is selected to perform the prediction for the assignment test set. With an expected out of sample error of 2.13%.
 
 ```{r}
 predict(model_rf, testing)
